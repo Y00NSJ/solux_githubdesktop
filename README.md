@@ -1,4 +1,4 @@
 # solux_githubdesktop
 SOLUX 2nd Seminar
 
-first commit for reset
+second commit for reset
